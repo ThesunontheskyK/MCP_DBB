@@ -20,7 +20,7 @@ Supports both **HTTP/SSE (for LAN / Multi-user sharing)** and **Stdio (Local)** 
 
 1. Configure your database credentials in `.env`:
    ```env
-   DB_SERVER=192.168.1.124
+   DB_SERVER=
    DB_USER=sa
    DB_PASSWORD=YourStrongPassword
    DB_NAME=YourDatabaseName
